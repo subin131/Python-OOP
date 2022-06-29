@@ -40,7 +40,7 @@ def get_school_name(cls):
     
     
 #static method thats doesnot depend upon the class and object.
-#decoretor
+#decorator
 @staticmethod
 def print_gov_holiday():
     print("Teej Holiday")

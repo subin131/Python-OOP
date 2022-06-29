@@ -1,4 +1,5 @@
-#usecase of oop
+#usecase of oop 
+#class is generalization
 #when we are representing the real world objects
 #class is blue print of the object
 #object is an instantiation of a class
